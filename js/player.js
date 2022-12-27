@@ -28,6 +28,25 @@ class Musics {
                 songUrl: './songs/米泽圆 (よねざわ まどか) - 届かない恋 (无法传达的爱恋) (Live at Campus Fes_TV Anime Ver_).mp3',
                 imageUrl: './images/songs/head.webp'
             },
+
+
+            {
+                id: 1,
+                title: "We Don't Talk Anymore",
+                singer: 'Charlie Puth',
+                songUrl: "./songs/Charlie Puth _ Selena Gomez - We Don't Talk Anymore.mp3",
+                imageUrl: './images/songs/head2.webp'
+            },
+
+
+
+            {
+                id: 1,
+                title: 'Attention',
+                singer: 'Charlie Puth',
+                songUrl: './songs/Charlie Puth - Attention.mp3',
+                imageUrl: './images/songs/head3.webp'
+            },
         ]
     }
     //根据索引获取歌曲的方法

@@ -310,7 +310,7 @@ div#archive {
 /* 播放器大小 */
 .music-player {
   width: 570px;
-  height: 500px;
+  height: 520px;
 }
 .music-player h3{
   margin: 0px 0 1px!important;
@@ -386,7 +386,7 @@ div#archive {
 }
 /* 播放器主体 */
 .music-player__main {
-  height: 180px;
+  height: 220px;                                /*180和25*/
   padding: 25px;
   box-shadow: 0 0 10px rgb(0 0 0 / 20%);
   border-radius: 10px;
@@ -494,7 +494,7 @@ div#archive {
   float: left;
   margin: 0 5px;
   font-weight: bolder;
-  color: #fff;
+  color: rgb(255, 255, 255);
   cursor: pointer;
 }
 
@@ -507,7 +507,7 @@ div#archive {
   float: left;
   width: 100px;
   position: relative;
-  top: 8px;
+  top: 20px;                            /*原来8上边是100*/
 }
 
 .player__song--timeProgess{
@@ -607,6 +607,9 @@ div#archive {
 链接: https://www.chuckle.top/article/3322c8a8.html
 来源: 轻笑Chuckle
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。 */
+
+
+
 
 
 
